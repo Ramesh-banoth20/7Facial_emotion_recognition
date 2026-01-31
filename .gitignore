@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Trained models (CRITICAL)
+*.keras
+*.h5
+*.pt
+*.ckpt
+
+# Datasets
+dataset/
+data/
+
+# OS junk
+.DS_Store
+Thumbs.db
